@@ -8,7 +8,7 @@ url: http://paramsingh.github.io # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
-# google_analytics: UA-XXXXX-XX
+google_analytics: UA-91371614-1
 repo: http://github.com/heiswayi/thinkspace
 # disqus_shortname: "heiswayi"
 twitter_username: "paramsingh258"
