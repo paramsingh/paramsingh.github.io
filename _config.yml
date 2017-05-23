@@ -1,7 +1,7 @@
 
 # SEO settings
-title: "I used to "
-title2: "think!" # default: ""
+title: "/param/"
+title2: "blog" # default: ""
 # description: "Just another minimalist Jekyll theme that focuses on technical writing."
 # keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url: http://paramsingh.github.io # site url
