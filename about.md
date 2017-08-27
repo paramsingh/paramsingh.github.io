@@ -14,4 +14,4 @@ of the [MetaBrainz Foundation](https://metabrainz.org/).
 
 When not staring at a screen, I play some chess and listen to music.
 
-You can view my resume [here](https://drive.google.com/file/d/0B1WGMArwh4qDYVV5VER6S1J5c1h2U1h4ZFQ5blhfMXd6UWE0/view?usp=sharing).
+You can view my resume [here](https://drive.google.com/file/d/0B1WGMArwh4qDMHZLaHpobWVGbjQ/view?usp=sharing)
