@@ -1,6 +1,10 @@
 ---
 layout: post
-title: GSoC 2017: Hacking on ListenBrainz
+title: GSoC 2017 - Hacking on ListenBrainz
+---
+
+This post was originally written for the [MusicBrainz blog](https://blog.musicbrainz.org).
+
 ---
 
 Namaste!
