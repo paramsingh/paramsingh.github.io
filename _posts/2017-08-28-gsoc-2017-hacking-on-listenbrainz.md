@@ -3,7 +3,7 @@ layout: post
 title: GSoC 2017 - Hacking on ListenBrainz
 ---
 
-This post was originally written for the [MusicBrainz blog](https://blog.musicbrainz.org).
+This post was originally written for the [MusicBrainz blog](https://blog.musicbrainz.org/2017/08/29/gsoc-2017-hacking-on-listenbrainz/). I wrote it as a report explaining the work I did during Google Summer of Code.
 
 ---
 
