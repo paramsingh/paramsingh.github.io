@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-I'm Param Singh, a third year Computer Science student at the National
+I'm Param Singh, a fourth year Computer Science student at the National
 Institute of Technology, Hamirpur. I am interested in algorithm development,
 artificial intelligence, mathematical computing and competitive programming.
 I love solving problems, be they algorithmic or mathematical. I also
