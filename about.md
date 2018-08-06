@@ -14,4 +14,4 @@ working on cool open-source music technology projects like [ListenBrainz](https:
 
 When not staring at a screen, I play some chess and listen to music.
 
-You can view my resume [here](https://drive.google.com/file/d/0B1WGMArwh4qDMHZLaHpobWVGbjQ/view?usp=sharing)
+You can view my resume [here](https://drive.google.com/file/d/0B1WGMArwh4qDMHZLaHpobWVGbjQ/view?usp=sharing).
