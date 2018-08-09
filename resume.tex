@@ -1,0 +1,157 @@
+%-------------------------
+% Resume in Latex
+% Author : Sourabh Bajaj
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.375in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeItemNoHeading}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\newcommand{\resumeSubItemNoBold}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{\href{https://paramsingh.github.io/}{\Large Param Singh}} & Email : \href{mailto:paramsingh258@gmail.com}{paramsingh258@gmail.com}\\
+  \href{https://paramsingh.github.io/}{http://paramsingh.github.io} & Mobile : +91 9882550805 \\
+\end{tabular*}
+
+
+%-----------EDUCATION-----------------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {National Institute of Technology, Hamirpur}{Hamirpur, H.P.}
+      {Dual Degree (Bachelors and Masters) in Computer Science;  GPA: 9.06 / 10}{Aug. 2014 -- May. 2019}
+  \resumeSubHeadingListEnd
+
+\section{Skills}
+  \resumeSubHeadingListStart
+    \resumeSubItem{Programming Languages}{Python, C++, C, JavaScript, Java}
+    \resumeSubItem{Technologies}{Docker, PostgreSQL, Flask, Django, InfluxDB, Google BigQuery, Apache Spark, cron, git, vim}
+  \resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {MetaBrainz Foundation Inc.}{}
+      {Software Engineer}{October 2017 - Present}
+      \resumeItemListStart
+        \resumeItemNoHeading{Responsible for maintaining and adding new features to music technology projects like \href{https://listenbrainz.org}{ListenBrainz}, \href{https://acousticbrainz.org}{AcousticBrainz} and \href{https://critiquebrainz.org}{CritiqueBrainz}.}
+        \resumeItem{ListenBrainz Recommendation System}{Created a recommendation system running on an Apache Spark cluster using ListenBrainz data. Wrote code for loading ListenBrainz dumps into Spark, training models and then recommending tracks.}
+        \resumeItem{Google Summer of Code Mentor}{Mentored a student developer as a part of Google Summer of Code 2018. Project involved importing MusicBrainz metadata into the large AcousticBrainz database to get better information from the AcousticBrainz data. Involved code review and helping with design of the import system.}
+        \resumeItem{Data Dumps}{Worked on a system to create automatic data dumps for the music listening history for ListenBrainz (around 3000 users with 150M recorded listens) stored in InfluxDB and PostgreSQL. Also, wrote scripts to move this data to the MetaBrainz FTP server.}
+       \resumeItemNoHeading{Added numerous other features to the Python projects like comments on reviews in CritiqueBrainz, importing listens into LB automatically from the Spotify API, integration of Sentry into the projects, setting up CI like Jenkins and Travis for projects. Also did code review on PRs from volunteers and deployed code into production regularly.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {MetaBrainz Foundation Inc.}{}
+      {\href{https://summerofcode.withgoogle.com/projects/\#6609129159262208}{Google Summer of Code Student Developer}}{May 2017 - August 2017}
+      \resumeItemListStart
+        \resumeItem{ListenBrainz Beta}
+          {Worked on the beta of the ListenBrainz project, an open encyclopedia of music listening histories of people, adding numerous features and fixing bugs. Worked on the data architecture of ListenBrainz archiving data in InfluxDB and submitting to Google BigQuery.}
+        \resumeItem{Statistics in ListenBrainz}
+          {Worked on a Google BigQuery based statistics module to retrieve statistics for users from the music listening histories they submit. Wrote code that calculates statistics using Google BigQuery and then stores them in PostgreSQL to later show them to the users.}
+      \resumeItemListEnd
+
+
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------------
+\section{Projects}
+  \resumeSubHeadingListStart
+
+    \resumeSubItem{\href{https://github.com/paramsingh/gameboi}{Gameboi}}{Implemented a Nintendo Gameboy emulator in C++.  Wrote code that emulates the Gameboy's CPU and its graphics. This code includes implementation of around 500 instructions for the Z80 as well as accurate timings for the GPU.}
+
+    \resumeSubItem{Checkers bot fight environment with integrated bot}{Developed for a 2-day hackathon in a team of three. This consisted of two parts, the engine in C++ and the GUI and environment in Python. Connected the GUI to the engine using self-defined protocols. Extensible with possibility to connect several bots for bot tournaments.}
+
+  \resumeSubHeadingListEnd
+
+
+\section{Co-curriculars}
+    \resumeSubHeadingListStart
+        \resumeSubItem{Google Code-In Mentor}{Mentored high-school students as they were introduced to open-source, responsible for creation of reasonable tasks that they could perform and then guiding students through completion.}
+        \resumeSubItem{Volunteer Lead at GLUG-NITH}{Organized various events promoting open source software and culture such as Software Freedom Day celebrations. Gave a talk on Google Summer of Code to an audience of about 80 people new to open-source.}
+        \resumeSubItem{Programming Competitions}{Regular participant in algorithmic programming competitions, expert on Codeforces with peak rating of 1880, ranked around 160 on CodeChef, ranked in the top 50 in ACM-ICPC Chennai Regionals}
+
+    \resumeSubHeadingListEnd
+
+
+%-------------------------------------------
+\end{document}
+
