@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why you're (not) dumb
+title: Why you're not dumb
 ---
 
 Do you ever get the nagging feeling that you're too dumb?
