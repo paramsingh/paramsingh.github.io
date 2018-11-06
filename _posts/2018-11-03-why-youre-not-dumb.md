@@ -70,6 +70,6 @@ And try not to be too hard on yourself. :)
 P.S: Just some background, I wrote this post because I was hearing
 sooo many "I'm too dumb" statements from a close friend of mind,
 [Vansika Pareek](https://broodingsecrets.wordpress.com/). So thanks for inspiring
-me to write this, Vansika!
+me to write this, Vansika! And thanks for inspiring the title as well. =)
 
 -------------
