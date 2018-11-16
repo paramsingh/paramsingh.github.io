@@ -3,15 +3,13 @@ layout: post
 title: Moving AcousticBrainz
 ---
 
-_Thoughts on migrating a terabyte scale database to a server in production for the first time._
-
-Hi!
+_Thoughts on migrating a terabyte scale database to a new server in production for the first time._
 
 In the interest of making this blog an archive of interesting technical work that I do, I'm gonna
 write about the recent work I did while migrating the [AcousticBrainz](https://acousticbrainz.org) website
 from an old server to MetaBrainz's relatively newer and shinier Hetzner infrastructure.
 
-This was the first time I worked with production databases of this scale, and it was a real learning
+This was the first time I worked with a production database of this scale, and it was a real learning
 experience. It really felt like I had jumped off the deep end, but it was really fun!
 
 Some backstory first, AcousticBrainz is a music technology project which crowd sources acoustic information
