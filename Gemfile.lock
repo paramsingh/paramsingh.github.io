@@ -93,6 +93,7 @@ PLATFORMS
 
 DEPENDENCIES
   bourbon (~> 4.2, >= 4.2.6)
+  ffi (>= 1.9.24)
   html-proofer
   jekyll (>= 3.6.3)
   jekyll-paginate (~> 1.1)
