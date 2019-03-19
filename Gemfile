@@ -4,9 +4,11 @@ source 'http://rubygems.org'
 
 group :development do
   gem 'html-proofer'
-  gem 'jekyll', '~> 3.0', '>= 3.0.1'
+  gem 'jekyll', '>= 3.6.3'
   gem 'jekyll-paginate', '~> 1.1'
   gem 'sass', '~> 3.4', '>= 3.4.20'
   gem 'bourbon', '~> 4.2', '>= 4.2.6'
   gem 'pygments.rb', '~> 0.6.3'
+  gem 'ffi', '>= 1.9.24'
+  gem 'nokogiri', '>= 1.8.5'
 end
