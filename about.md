@@ -14,4 +14,5 @@ working on cool open-source music technology projects like [ListenBrainz](https:
 
 When not staring at a screen, I play some chess and listen to music.
 
-You can view my resume [here](/assets/resume.pdf).
+I also (try to) take (good) [photos](https://instagram.com/iliekcomputers).
+
