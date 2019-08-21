@@ -30,7 +30,7 @@ sass:
 # Author settings
 author:
   name     : "Param Singh"
-  job      : "Computer Science student at NITH"
+  job      : "Software Engineer at Stripe"
   bio      : "I write code, listen to music, play chess and reddit. This is my blog."
   thumb    : /images/author.jpg
   email    : paramsingh258@gmail.com
