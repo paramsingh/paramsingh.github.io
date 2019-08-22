@@ -1,7 +1,7 @@
 
 # SEO settings
 title: "/param/"
-title2: "blog" # default: ""
+title2: "home" # default: ""
 # description: "Just another minimalist Jekyll theme that focuses on technical writing."
 # keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url: http://paramsingh.github.io # site url
@@ -11,7 +11,7 @@ baseurl: "" # apply repo name if use it under gh-pages branch
 google_analytics: UA-91371614-1
 repo: http://github.com/heiswayi/thinkspace
 # disqus_shortname: "heiswayi"
-twitter_username: "paramsingh258"
+twitter_username: "iliekcomputers"
 # comments: true
 
 # Build settings
@@ -36,14 +36,14 @@ author:
   email    : paramsingh258@gmail.com
   url      : http://paramsingh.github.io
   github   : http://github.com/paramsingh
-  twitter  : http://twitter.com/paramsingh258
+  twitter  : http://twitter.com/iliekcomputers
   facebook : https://www.facebook.com/prmsngh
   linkedin : http://linkedin.com/in/prmsngh
 
 # social settings
 og_locale: "en_US"
 twitter_card: "summary_large_image"
-twitter_site: "paramsingh258"
+twitter_site: "iliekcomputers"
 
 gems:
   - bourbon
