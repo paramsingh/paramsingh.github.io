@@ -4,7 +4,7 @@ title: Updates
 permalink: /diary/
 ---
 
-*This page is for larger posts / updates / reviews I write about my life*
+*This page is for larger posts / updates / reviews I write about my life. It isn't ideal but for now it is what it is*
 
 ------------------
 
