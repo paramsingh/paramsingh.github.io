@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 5-15
+itle: 5-15s
 permalink: /updates/
 ---
 
