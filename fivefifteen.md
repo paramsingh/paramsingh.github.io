@@ -4,7 +4,7 @@ title: 5-15s
 permalink: /updates/
 ---
 
-*I do weekly updates every Sunday on this page. They should ideally take me 15 minutes to write and if a person reads them, it should take them 15 minutes, not that I expect anyone to read them.*
+*I do weekly updates every Sunday on this page. They should ideally take me 15 minutes to write and if a person reads them, it should take them 5 minutes, not that I expect anyone to read them.*
 
 # 15th September, 2019
 
