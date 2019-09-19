@@ -6,6 +6,8 @@ permalink: /diary/
 
 *This page is for larger posts / updates / reviews I write about my life*
 
+------------------
+
 # What's going on?
 
 _Posted: August 19, 2019_
