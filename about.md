@@ -7,6 +7,8 @@ permalink: /about/
 I'm Param Singh. I live in Dublin and work for [Stripe](https://stripe.com).
 I also write code for the [MetaBrainz Foundation](https://metabrainz.org/).
 
+**Email**: iliekcomputers [at] gmail [dot] com
+
 #### Elsewhere
 
 [paramsingh](https://github.com/paramsingh) on GitHub;
