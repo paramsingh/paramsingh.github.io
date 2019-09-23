@@ -6,7 +6,25 @@ permalink: /updates/
 
 *I do weekly updates every Sunday on this page. They should ideally take me 15 minutes to write and if a person reads them, it should take them 5 minutes, not that I expect anyone to read them.*
 
-# 15th September, 2019
+# September 21, 2019
+
+* This week was interesting because I was able to collaborate with the design team
+on some cool stuff. It's really interesting to see the thought process of design
+people in contrast to software engineers. There's more of an emphasis on "what"
+instead of "how", I think.
+* Stripe also really focuses on user feedback. I got some insight into user
+interviews and how they're done here at Stripe. I'm hoping to do an actual user
+interview next week.
+* MetaBrainz was a bit light this week. I upgraded Python on listenbrainz-labs,
+merged a few PRs, made some progress on jobs on the spark cluster, but I wasn't
+able to spend much time on this.
+* I got the Irish visa this week! I'm gonna get to Dublin soon!
+* Personal stuff: Encountered some racism when walking down the street this week.
+Also, this was a good week for general media consumption. I started reading
+"Me Before You", finished a re-watch of "Friends", watched "Ad Astra" in IMAX
+and started "Your Lie in April".
+
+# September 15, 2019
 
 * I spend a lot of time learning stuff at Stripe. Been working with Ruby
 and React a lot which is fun, however working basically remotely with a
