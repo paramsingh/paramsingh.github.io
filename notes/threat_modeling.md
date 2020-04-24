@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Threat Modeling
+categories: [Security]
 ---
 A threat model is a living artifact that helps us reason about the security of a system.
 

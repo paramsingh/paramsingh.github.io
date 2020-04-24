@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Single Transferable Vote
+categories: [History]
 ---
 
 In the Single Transferable Vote (STV) system, voters rank candidates in their constituencies.

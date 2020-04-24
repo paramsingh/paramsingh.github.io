@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Deploying packages to PyPI
+categories: [Software Engineering]
 ---
 
 Each package needs a `setup.py` file which pip will use to install the package.

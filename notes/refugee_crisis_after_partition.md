@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Indian refugee crisis after partition
+categories: [History]
 ---
 
 * India had to deal with a pretty huge refugee problem after Partition in 1947.

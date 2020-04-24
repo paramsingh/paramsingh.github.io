@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Standard Acre
+categories: [History]
 ---
 
 Since the land in Punjab being

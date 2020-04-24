@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First-past-the-post voting
+categories: [History]
 ---
 
 An electoral system where people vote for their favorite candidate and the

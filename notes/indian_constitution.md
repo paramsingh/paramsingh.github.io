@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Constitution of India
+categories: [History]
 ---
 
 * Written in three years by a Constituent Assembly consisting of 389 members.

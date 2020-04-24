@@ -1,6 +1,7 @@
 ---
 layout: post
 title: STRIDE
+categories: [Security]
 ---
 
 STRIDE is a strategy used to create [threat models]({% link notes/threat_modeling.md %}).

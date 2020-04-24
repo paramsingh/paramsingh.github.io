@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Graded Cut
+categories: [History]
 ---
 
 Since the land in Punjab being

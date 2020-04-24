@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Land redistribution in India after Partition
+categories: [History]
 ---
 
 
