@@ -1,20 +1,20 @@
 ---
 layout: page
 title: Index
-categories: [Miscellany]
 ---
 
 This is a list of my notes. See <a href="{% link notes/notetaking.md %}">note taking</a>.
 
+{% assign categories = "History, Engineering, Security, Miscellany" | split: ", " %}
+{% for category in categories %}
+<h3>{{ category }}</h3>
 <ul>
-{% for category in site.categories %}
-    <h3> {{ category[0] }} </h3>
-    {% for note in categories[1] %}
-        {% if note.url contains "/notes" %}
+{% for note in site.pages %}
+    {% if note.url contains "/notes" and note.categories contains category %}
         <li>
-            <a href="{{note.url}}">{{ note.title }}</a>
+            <a href="{{note.url}}">{{ note.title }}</a> 
         </li>
         {% endif %}
     {% endfor %}
+    </ul>
 {% endfor %}
-</ul>
