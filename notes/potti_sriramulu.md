@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Potti Sriramulu
-category: [History]
+categories: [History]
 ---
 
 _The man who changed India's map._
