@@ -3,7 +3,7 @@ layout: post
 title: STRIDE
 ---
 
-STRIDE is a strategy used to create [threat models][{% link notes/threat_modeling.md %}].
+STRIDE is a strategy used to create [threat models]({% link notes/threat_modeling.md %}).
 
 It is a mnemonic which we should look at while thinking of 
 threats to the system.

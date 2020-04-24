@@ -19,8 +19,8 @@ There are methods that can be used to come up with threats:
 
 * [STRIDE]({% link notes/stride.md %})
 * Abuser stories 
-* Threat Lists ([CAPEC]())
-* Vulnerability Lists ([OWASP Top 10]() etc)
+* Threat Lists ([CAPEC](https://samate.nist.gov/BF/Enlightenment/CAPEC.html))
+* Vulnerability Lists ([OWASP Top 10](https://owasp.org/www-project-top-ten/) etc)
 
 Mitigation can involve many things, some of which are as follows:
 
