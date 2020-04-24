@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Proportional Representation
-categories: [History]
+categories: [Miscellany]
 ---
 
 An electoral system which tries to enforce that if x% of a population support a
