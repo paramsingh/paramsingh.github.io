@@ -18,3 +18,10 @@ This is a list of my notes. See <a href="{% link notes/notetaking.md %}">note ta
     {% endfor %}
     </ul>
 {% endfor %}
+### Links to this note
+* [Note taking]({% link notes/notetaking.md %})
+
+
+___
+
+### Footnotes

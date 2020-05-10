@@ -15,3 +15,14 @@ one of the biggest land resettlement operation in world history.
 * Each family got 4 hectares of land regardless of holdings in Pakistan.
 * Sardar Tarlok Singh used the [Standard Acre]({% link notes/standard_acre.md %}) and
 [Graded Cut]({% link notes/graded_cut.md %}) policies to try to fairly allocate land.
+
+
+### Links to this note
+* [Standard Acre]({% link notes/standard_acre.md %})
+* [Indian refugee crisis after partition]({% link notes/refugee_crisis_after_partition.md %})
+* [Graded Cut]({% link notes/graded_cut.md %})
+
+
+___
+
+### Footnotes

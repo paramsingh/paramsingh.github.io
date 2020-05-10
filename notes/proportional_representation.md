@@ -13,3 +13,11 @@ Most popular ways of Proportional Representation are
 * Party List PR
 * [Single Transferable Vote]({% link notes/single_transferable_vote.md %})
 * Mixed-member PR
+
+### Links to this note
+* [Single Transferable Vote]({% link notes/single_transferable_vote.md %})
+
+
+___
+
+### Footnotes

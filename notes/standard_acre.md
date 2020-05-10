@@ -16,3 +16,13 @@ the dry ares, one standard acre might be four physical acres.
 
 This concept took care of the variations in soil and climate across the province during
 redistribution.
+
+
+### Links to this note
+* [Land redistribution in India after Partition]({% link notes/land_redistribution_after_partition.md %})
+* [Indian refugee crisis after partition]({% link notes/refugee_crisis_after_partition.md %})
+
+
+___
+
+### Footnotes

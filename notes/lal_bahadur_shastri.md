@@ -48,9 +48,17 @@ of forces to positions they held before August 5, 1965 and ordery transfer of pr
 
 Shashti died in his sleep of a heart attack, the night the agreement was signed.
 
-## References
-
 [^1]: India After Gandhi, Ramachandra Guha, pg 393
 [^2]: [Indo-Pakistan war, 1965]({% link notes/indo_pak_war_1965.md %})
 [^3]: India After Gandhi, Ramachandra Guha, pg 398
 [^4]: [Sino-Indian war]({% link notes/sino_indian_war.md %})
+
+
+### Links to this note
+* [Sino-Indian War]({% link notes/sino_indian_war.md %})
+* [India Pakistan war, 1965]({% link notes/indo_pak_war_1965.md %})
+
+
+___
+
+### Footnotes

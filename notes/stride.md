@@ -15,3 +15,12 @@ threats to the system.
 * Information Disclosure -- Can I get access to data that I should not have access to?
 * Denial of Service -- Can I bring the service down in some way?
 * Elevation of privileges -- Can I do stuff that I should not be allowed to do?
+
+
+### Links to this note
+* [Threat Modeling]({% link notes/threat_modeling.md %})
+
+
+___
+
+### Footnotes

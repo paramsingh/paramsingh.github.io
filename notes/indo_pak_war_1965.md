@@ -41,3 +41,12 @@ had "fought themselves into a stalemate" [[^3]]. On 22 Spetember, hostilities we
 [^1]: India After Gandhi, Ramachandra Guha, pg 394
 [^2]: India After Gandhi, Ramachandra Guha, pg 395
 [^3]: India After Gandhi, Ramachandra Guha, pg 396
+
+
+### Links to this note
+* [Lal Bahadur Shastri]({% link notes/lal_bahadur_shastri.md %})
+
+
+___
+
+### Footnotes

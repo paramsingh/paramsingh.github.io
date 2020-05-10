@@ -7,7 +7,7 @@ categories: [History]
 In 1959, India offered exile to the Dalai Lama, as he was exiled from Tibet by Chinese forces.
 Indian relations with China were very bad. The border dispute centred around the McMahon line,
 territory which is Arunachal Pradesh now. The other part of the border dispute was Aksai Chin,
-which Nehru contested "had been part of the Ladakh regions of India for centuries". China didn't
+which Nehru contested "had been part of the Ladakh regions of India for centuries" [[^1]]. China didn't
 recognize the McMahon line, calling it a result of British imperialism.
 
 War broke out in 1959. In October, an Indian patrol in Ladakh was attacked by a Chinese detachment.
@@ -17,6 +17,13 @@ their side of the border.
 
 V.K. Krishna Menon was removed as Defence Minister after the war.
 
-## References
+[^1]: Letters between Nehru and Chou En-lai, https://digitalarchive.wilsoncenter.org/document/175958.pdf
 
-* Letters between Nehru and Chou En-lai, https://digitalarchive.wilsoncenter.org/document/175958.pdf
+
+### Links to this note
+* [Lal Bahadur Shastri]({% link notes/lal_bahadur_shastri.md %})
+
+
+___
+
+### Footnotes

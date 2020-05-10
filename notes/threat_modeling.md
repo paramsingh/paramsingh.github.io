@@ -34,3 +34,11 @@ Mitigation can involve many things, some of which are as follows:
 * Exception Management
 * Input validation
 * Handling sensitive data correctly
+
+### Links to this note
+* [STRIDE]({% link notes/stride.md %})
+
+
+___
+
+### Footnotes

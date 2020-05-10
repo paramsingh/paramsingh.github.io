@@ -12,3 +12,12 @@ categories: [History]
 the centre power to take over a state government on the recommendation of the governor.
 * There were arguments for giving muslims a seperate electorate! Sardar Patel argued against this.
 * There were also controversies about the national language of India. We use Hindi and English for official purposes and states use regional languages.
+
+### Links to this note
+* [Single Transferable Vote]({% link notes/single_transferable_vote.md %})
+* [First-past-the-post voting]({% link notes/first_past_the_post.md %})
+
+
+___
+
+### Footnotes
