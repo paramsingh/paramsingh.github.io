@@ -48,16 +48,18 @@ def write_backlinks_to_note(note, backlinks):
     original_lines = []
     for line in open(os.path.join(NOTES_DIR, note), 'r'):
         if 'Links to this note' in line:
+            original_lines.pop() # remove the last ___ separator
+            original_lines.pop()
             break
         original_lines.append(line)
 
     # Construct content to write
-    lines_to_add = ['\n', '### Links to this note\n']
+    lines_to_add = ['___', '\n', '### Links to this note\n']
     for link in backlinks:
         note_title = get_note_title(link)
         line = "* [{}]({{% link notes/{} %}})\n".format(note_title, link)
         lines_to_add.append(line)
-    lines_to_add.extend(['\n\n___\n\n', '### Footnotes\n'])
+    lines_to_add.extend(['\n\n___\n\n', '### Footnotes\n']) #TODO: find a way to not add the footnotes heading if it isn't needed
 
     with open(os.path.join(NOTES_DIR, note), 'w') as f:
         f.writelines(original_lines + lines_to_add)
