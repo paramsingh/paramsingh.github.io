@@ -36,8 +36,6 @@ Punjab border, heading straight for Lahore.
 On 6 September, the United Nations Security Council met. The decision was made that in Punjab, the two sides
 had "fought themselves into a stalemate" [[^3]]. On 22 Spetember, hostilities were called off.
 
-## References
-
 [^1]: India After Gandhi, Ramachandra Guha, pg 394
 [^2]: India After Gandhi, Ramachandra Guha, pg 395
 [^3]: India After Gandhi, Ramachandra Guha, pg 396
