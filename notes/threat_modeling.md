@@ -16,25 +16,22 @@ A threat model should contain the following things:
 * List of prioritized mitigations done or planned
 * List of assumptions made
 
-There are methods that can be used to come up with threats:
+The questions you should ask yourself while threat modeling are [[^0]]:
+* What are you building?
+* What can go wrong?
+* What should you do about the things that can go wrong?
+* Did you do a decent job of analysis?
+
+There are methods that can be used to come up with threats, for the second question:
 
 * [STRIDE]({% link notes/stride.md %})
-* Abuser stories 
+* Abuser stories
 * Threat Lists ([CAPEC](https://samate.nist.gov/BF/Enlightenment/CAPEC.html))
 * Vulnerability Lists ([OWASP Top 10](https://owasp.org/www-project-top-ten/) etc)
 
-Mitigation can involve many things, some of which are as follows:
+[^0]: Threat Modeling: Designing for Security, Adam Shostack, pg 4
 
-* Authorization
-* Auditing and Logging
-* Authentication
-* Communication Security
-* Configuration Management
-* Cryptography
-* Exception Management
-* Input validation
-* Handling sensitive data correctly
-
+___
 ### Links to this note
 * [STRIDE]({% link notes/stride.md %})
 
