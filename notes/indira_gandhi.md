@@ -1,4 +1,7 @@
 ---
+backlinks:
+  indo_pak_war_1971: India Pakistan war, 1971
+  nationalization_of_banks: Nationalization of Banks, 1969
 categories:
 - History
 layout: post

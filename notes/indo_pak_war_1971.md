@@ -1,4 +1,6 @@
 ---
+backlinks:
+  indira_gandhi: Indira Gandhi
 categories:
 - History
 layout: post

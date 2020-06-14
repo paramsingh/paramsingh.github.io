@@ -1,8 +1,10 @@
---
-layout: post
-title: Nationalization of Banks, 1969
+---
+backlinks:
+  indira_gandhi: Indira Gandhi
 categories:
 - History
+layout: post
+title: Nationalization of Banks, 1969
 ---
 
 In 1969, [Indira Gandhi]({% link notes/indira_gandhi.md %}) issued an ordinance that the state had taken over 14 privately owned banks. The idea was
