@@ -1,5 +1,6 @@
 ---
 backlinks:
+  indira_gandhi: Indira Gandhi
   indo_pak_war_1965: India Pakistan war, 1965
 categories:
 - History

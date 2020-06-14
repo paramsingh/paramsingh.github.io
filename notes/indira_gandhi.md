@@ -8,7 +8,7 @@ layout: post
 title: Indira Gandhi
 ---
 
-Indira Gandhi became Prime Minister on [Lal Bahadur Shastri's]({% link notes/../lal_bahadur_shastri.md %}) death.
+Indira Gandhi became Prime Minister on [Lal Bahadur Shastri's]({% link notes/lal_bahadur_shastri.md %}) death.
 Morarji Desai was initially finance minister and deputy prime minister under Indira Gandhi.
 
 
