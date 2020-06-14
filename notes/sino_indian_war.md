@@ -1,6 +1,6 @@
 ---
 backlinks:
-- lal_bahadur_shastri.md
+  lal_bahadur_shastri.md: Lal Bahadur Shastri
 categories:
 - History
 layout: post

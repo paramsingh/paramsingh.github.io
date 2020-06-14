@@ -1,7 +1,7 @@
 ---
 backlinks:
-- indian_constitution.md
-- proportional_representation.md
+  indian_constitution.md: Constitution of India
+  proportional_representation.md: Proportional Representation
 categories:
 - Miscellany
 layout: post

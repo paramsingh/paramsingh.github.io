@@ -1,6 +1,6 @@
 ---
 backlinks:
-- threat_modeling.md
+  threat_modeling.md: Threat Modeling
 categories:
 - Security
 layout: post

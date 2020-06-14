@@ -1,6 +1,6 @@
 ---
 backlinks:
-- land_redistribution_after_partition.md
+  land_redistribution_after_partition.md: Land redistribution in India after Partition
 categories:
 - History
 layout: post

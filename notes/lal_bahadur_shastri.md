@@ -1,6 +1,6 @@
 ---
 backlinks:
-- indo_pak_war_1965.md
+  indo_pak_war_1965.md: India Pakistan war, 1965
 categories:
 - History
 layout: post

@@ -1,8 +1,8 @@
 ---
 backlinks:
-- standard_acre.md
-- refugee_crisis_after_partition.md
-- graded_cut.md
+  graded_cut.md: Graded Cut
+  refugee_crisis_after_partition.md: Indian refugee crisis after partition
+  standard_acre.md: Standard Acre
 categories:
 - History
 layout: post

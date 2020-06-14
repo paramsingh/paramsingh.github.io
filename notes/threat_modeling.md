@@ -1,6 +1,6 @@
 ---
 backlinks:
-- stride.md
+  stride.md: STRIDE
 categories:
 - Security
 layout: post

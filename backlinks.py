@@ -36,12 +36,17 @@ def _list_note_links(note: List[str]):
     return links
 
 
+def _get_note_title(note_filename: str):
+    note = frontmatter.load(os.path.join(NOTES_DIR, note_filename))
+    return note['title']
+
+
 def write_backlinks_to_note(note_filename: str, backlinks: Set[str]):
     if len(backlinks) == 0:
         return
 
     note = frontmatter.load(os.path.join(NOTES_DIR, note_filename))
-    note['backlinks'] = [link for link in backlinks]
+    note['backlinks'] = {link: _get_note_title(link) for link in backlinks}
     with open(os.path.join(NOTES_DIR, note_filename), 'wb') as f:
         frontmatter.dump(note, f)
 

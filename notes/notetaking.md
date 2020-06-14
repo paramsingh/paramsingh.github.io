@@ -1,6 +1,6 @@
 ---
 backlinks:
-- index.md
+  index.md: Index
 categories:
 - Miscellany
 layout: post
