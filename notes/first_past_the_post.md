@@ -1,7 +1,7 @@
 ---
 backlinks:
-  indian_constitution.md: Constitution of India
-  single_transferable_vote.md: Single Transferable Vote
+  indian_constitution: Constitution of India
+  single_transferable_vote: Single Transferable Vote
 categories:
 - Miscellany
 layout: post

@@ -1,8 +1,8 @@
 ---
 backlinks:
-  graded_cut.md: Graded Cut
-  land_redistribution_after_partition.md: Land redistribution in India after Partition
-  standard_acre.md: Standard Acre
+  graded_cut: Graded Cut
+  land_redistribution_after_partition: Land redistribution in India after Partition
+  standard_acre: Standard Acre
 categories:
 - History
 layout: post
