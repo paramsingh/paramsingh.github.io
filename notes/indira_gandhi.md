@@ -1,5 +1,6 @@
 ---
 backlinks:
+  emergency: Emergency, 1975
   indo_pak_war_1971: India Pakistan war, 1971
   nationalization_of_banks: Nationalization of Banks, 1969
 categories:
@@ -30,3 +31,12 @@ Eventually, Congress (R) won the general elections in 1971 with a huge majority 
 # Indo Pakistani war, 1971
 
 Indira was PM during the [war]({% link notes/indo_pak_war_1971.md %}) in 1971, a major figure in the creation of Bangladesh.
+
+# Emergency, 1975
+
+Indira is most well-known for declaring an [emergency]({% link notes/emergency.md %}),
+due to "internal disturbances". This was followed by more authoritarian practises like
+putting dissenters in jail, press censorship, and extreme implementation of policies like
+forced sterilization.
+
+The emergency was eventually lifted 19 months later in 1977.
