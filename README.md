@@ -1,16 +1,16 @@
-# Thinkspace v2
+# param.codes
 
-**Thinkspace** - a minimalist and white clean Jekyll theme designed for engineers to write their ranting and findings. It's best for personal blog or project blog use. Made with [Sass](https://github.com/sass/sass) which automates the compression of the compiled CSS code, and cool Jekyll layout by [Anatol Broder](http://jch.penibelst.de/) for compressing the HTML output code on-the-fly. Use typeface from [Inconsolata](https://fonts.google.com/specimen/Inconsolata) by Google Fonts and [Font Awesome](http://fontawesome.io/). [Disqus](https://disqus.com/) comment supported.
+https://param.codes
 
-[**Live Demo**](http://heiswayi.github.io/thinkspace/)
+This is the repository for my personal blog / public notes.
 
-### Screenshot
+Uses [Jekyll](https://jekyllrb.com/) and [Thinkspace](https://github.com/heiswayi/thinkspace).
 
-![Screenshot](http://i.imgur.com/TgaRfrU.png)
+It also contains the [script](backlinks.py) I use to generate backlinks for my notes.
 
 ### License
 
-[MIT](LICENSE.md)
+Thinkspace and my modifications to it are [MIT](LICENSE.md) licensed.
 
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Text and photographs on paramsingh.github.io</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Param Singh</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+All content created by me in this repository is licensed under the
+[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
