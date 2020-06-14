@@ -1,9 +1,11 @@
 ---
+backlinks:
+- indo_pak_war_1965.md
+categories:
+- History
 layout: post
 title: Lal Bahadur Shastri
-categories: [History]
 ---
-
 
 Lal Bahadur Shastri was the 2nd Prime Minister of India. His premiership lasted less
 than 2 years, as Shastri died in the city of Tashkent in Soviet Union.
@@ -52,13 +54,3 @@ Shashti died in his sleep of a heart attack, the night the agreement was signed.
 [^2]: [Indo-Pakistan war, 1965]({% link notes/indo_pak_war_1965.md %})
 [^3]: India After Gandhi, Ramachandra Guha, pg 398
 [^4]: [Sino-Indian war]({% link notes/sino_indian_war.md %})
-
-
-### Links to this note
-* [Sino-Indian War]({% link notes/sino_indian_war.md %})
-* [India Pakistan war, 1965]({% link notes/indo_pak_war_1965.md %})
-
-
-___
-
-### Footnotes

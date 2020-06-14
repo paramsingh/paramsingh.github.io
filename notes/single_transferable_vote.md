@@ -1,7 +1,11 @@
 ---
+backlinks:
+- indian_constitution.md
+- proportional_representation.md
+categories:
+- Miscellany
 layout: post
 title: Single Transferable Vote
-categories: [Miscellany]
 ---
 
 In the Single Transferable Vote (STV) system, voters rank candidates in their constituencies.
@@ -18,14 +22,3 @@ This system is used currently in Ireland. Eamon De Valera however passed an
 [amendment](https://en.wikipedia.org/wiki/Third_Amendment_of_the_Constitution_Bill_1958)
 moving to [FPTP]({% link notes/first_past_the_post.md %}). There was a referendum
 where STV won the vote 51% to 48%.
-
-
-### Links to this note
-* [Constitution of India]({% link notes/indian_constitution.md %})
-* [First-past-the-post voting]({% link notes/first_past_the_post.md %})
-* [Proportional Representation]({% link notes/proportional_representation.md %})
-
-
-___
-
-### Footnotes

@@ -1,8 +1,12 @@
 ---
+backlinks:
+- stride.md
+categories:
+- Security
 layout: post
 title: Threat Modeling
-categories: [Security]
 ---
+
 A threat model is a living artifact that helps us reason about the security of a system.
 
 Threat modeling helps define system appropriate security requirements and helps
@@ -30,12 +34,3 @@ There are methods that can be used to come up with threats, for the second quest
 * Vulnerability Lists ([OWASP Top 10](https://owasp.org/www-project-top-ten/) etc)
 
 [^0]: Threat Modeling: Designing for Security, Adam Shostack, pg 4
-
-___
-### Links to this note
-* [STRIDE]({% link notes/stride.md %})
-
-
-___
-
-### Footnotes

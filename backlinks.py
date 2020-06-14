@@ -4,29 +4,25 @@
 import click
 import os
 import os.path
+import frontmatter
 import re
 
 from collections import defaultdict
+from typing import List, Set
 
 
 NOTES_DIR = './notes'
 
 def _get_all_notes():
     all_notes = []
-    for path, dirs, files in os.walk(NOTES_DIR):
+    for _, _, files in os.walk(NOTES_DIR):
         all_notes.extend([filename for filename in files if filename.endswith('.md')])
     return all_notes
 
-def get_note_title(note):
-    for line in open(os.path.join(NOTES_DIR, note), 'r'):
-        if line.startswith('title:'):
-            return ':'.join([line.strip() for line in line.split(':')[1:]])
-
-
-
-
-def _list_note_links(note):
+def _list_note_links(note: List[str]):
     """ Return a list of notes that the given node links to
+
+    Example return value: ["index.md"]
     """
     regex = re.compile(r"(\{% link notes/)+(?P<note_name>\w+)(\.md %\})+")
     links = []
@@ -40,29 +36,14 @@ def _list_note_links(note):
     return links
 
 
-def write_backlinks_to_note(note, backlinks):
+def write_backlinks_to_note(note_filename: str, backlinks: Set[str]):
     if len(backlinks) == 0:
         return
 
-    # Read the file
-    original_lines = []
-    for line in open(os.path.join(NOTES_DIR, note), 'r'):
-        if 'Links to this note' in line:
-            original_lines.pop() # remove the last ___ separator
-            original_lines.pop()
-            break
-        original_lines.append(line)
-
-    # Construct content to write
-    lines_to_add = ['___', '\n', '### Links to this note\n']
-    for link in backlinks:
-        note_title = get_note_title(link)
-        line = "* [{}]({{% link notes/{} %}})\n".format(note_title, link)
-        lines_to_add.append(line)
-    lines_to_add.extend(['\n\n___\n\n', '### Footnotes\n']) #TODO: find a way to not add the footnotes heading if it isn't needed
-
-    with open(os.path.join(NOTES_DIR, note), 'w') as f:
-        f.writelines(original_lines + lines_to_add)
+    note = frontmatter.load(os.path.join(NOTES_DIR, note_filename))
+    note['backlinks'] = [link for link in backlinks]
+    with open(os.path.join(NOTES_DIR, note_filename), 'wb') as f:
+        frontmatter.dump(note, f)
 
 
 @click.command()
@@ -87,11 +68,6 @@ def main(dry_run):
             print("\n")
         else:
             write_backlinks_to_note(note, backlinks)
-
-
-
-
-
 
 
 if __name__ == '__main__':

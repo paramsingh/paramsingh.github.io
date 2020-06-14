@@ -1,7 +1,10 @@
 ---
+backlinks:
+- land_redistribution_after_partition.md
+categories:
+- History
 layout: post
 title: Graded Cut
-categories: [History]
 ---
 
 Since the land in Punjab being
@@ -15,13 +18,3 @@ higher cuts, going up to 95% for claims in excess of 500 acres. Pretty similar t
 these days, although I'd like to see 95% tax for the obscenely rich.
 
 Some lady named Vidyawati had a claim of 11,500 acres and was only allotted 835.
-
-
-### Links to this note
-* [Land redistribution in India after Partition]({% link notes/land_redistribution_after_partition.md %})
-* [Indian refugee crisis after partition]({% link notes/refugee_crisis_after_partition.md %})
-
-
-___
-
-### Footnotes

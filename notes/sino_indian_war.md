@@ -1,7 +1,10 @@
 ---
+backlinks:
+- lal_bahadur_shastri.md
+categories:
+- History
 layout: post
 title: Sino-Indian War
-categories: [History]
 ---
 
 In 1959, India offered exile to the Dalai Lama, as he was exiled from Tibet by Chinese forces.
@@ -18,12 +21,3 @@ their side of the border.
 V.K. Krishna Menon was removed as Defence Minister after the war.
 
 [^1]: Letters between Nehru and Chou En-lai, https://digitalarchive.wilsoncenter.org/document/175958.pdf
-
-
-### Links to this note
-* [Lal Bahadur Shastri]({% link notes/lal_bahadur_shastri.md %})
-
-
-___
-
-### Footnotes

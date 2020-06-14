@@ -1,7 +1,12 @@
 ---
+backlinks:
+- standard_acre.md
+- land_redistribution_after_partition.md
+- graded_cut.md
+categories:
+- History
 layout: post
 title: Indian refugee crisis after partition
-categories: [History]
 ---
 
 * India had to deal with a pretty huge refugee problem after Partition in 1947.
@@ -22,15 +27,3 @@ down, one by one and restored to their families.
 partition. The communists destroyed palatial homes of landlords and redistributed
 land among the peasants. The poor were told not to pay land revenue. The
 Communist Party won the elections in Andhra Pradesh in 1952.
-
-
-
-### Links to this note
-* [Standard Acre]({% link notes/standard_acre.md %})
-* [Land redistribution in India after Partition]({% link notes/land_redistribution_after_partition.md %})
-* [Graded Cut]({% link notes/graded_cut.md %})
-
-
-___
-
-### Footnotes
