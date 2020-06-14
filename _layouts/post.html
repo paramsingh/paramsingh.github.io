@@ -10,6 +10,16 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
+  {% if page.backlinks %}
+    <div class="post-content">
+      <h1>Links to this note</h1>
+      <ul>
+        {% for link in page.backlinks %}
+          <li><a href="/notes/{{link[0]}}">{{link[1]}}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
 </article>
 
 {% include comments.html %}

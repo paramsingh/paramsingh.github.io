@@ -12,16 +12,9 @@ This is a list of my notes. See <a href="{% link notes/notetaking.md %}">note ta
 {% for note in site.pages %}
     {% if note.url contains "/notes" and note.categories contains category %}
         <li>
-            <a href="{{note.url}}">{{ note.title }}</a> 
+            <a href="{{note.url}}">{{ note.title }}</a>
         </li>
         {% endif %}
     {% endfor %}
     </ul>
 {% endfor %}
-### Links to this note
-* [Note taking]({% link notes/notetaking.md %})
-
-
-___
-
-### Footnotes
