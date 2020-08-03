@@ -1,7 +1,10 @@
 ---
+backlinks:
+  being_a_mentor: Being a GSoC mentor
+categories:
+- Engineering
 layout: post
 title: ListenBrainz release process changes
-categories: [Engineering]
 ---
 
 Over the past year, I've made a major change in how we think about releases for [ListenBrainz](https://listenbrainz.org).
