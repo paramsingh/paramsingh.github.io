@@ -5,7 +5,8 @@ categories:
   - Engineering
 ---
 
-I've been a GSoC mentor twice now. Here are things that I think need to be done by a mentor
+I've been a [GSoC](https://summerofcode.withgoogle.com) mentor twice now.
+Here are things that I think need to be done by a mentor
 so that the student has a good experience.
 
 - Make time during the start of GSoC. This time is when the student and you get accustomed to working with each
