@@ -1,23 +1,21 @@
-
 # SEO settings
 title: "/param/"
 title2: "home" # default: ""
 # description: "Just another minimalist Jekyll theme that focuses on technical writing."
 # keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url: http://paramsingh.github.io # site url
+url: https://param.codes# site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
-google_analytics: UA-91371614-1
 repo: http://github.com/heiswayi/thinkspace
 # disqus_shortname: "heiswayi"
 twitter_username: "iliekcomputers"
 # comments: true
 
 # Build settings
-permalink   : /:year/:title/
-markdown    : kramdown
-highlighter : rouge
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
 
 source: ./
 destination: ./_site
@@ -29,16 +27,16 @@ sass:
 
 # Author settings
 author:
-  name     : "Param Singh"
-  job      : "Software Engineer at Stripe"
-  bio      : "I write code, listen to music, play chess and reddit. This is my blog."
-  thumb    : /images/author.jpg
-  email    : paramsingh258@gmail.com
-  url      : http://paramsingh.github.io
-  github   : http://github.com/paramsingh
-  twitter  : http://twitter.com/iliekcomputers
-  facebook : https://www.facebook.com/prmsngh
-  linkedin : http://linkedin.com/in/prmsngh
+  name: "Param Singh"
+  job: "Software Engineer at Stripe"
+  bio: "I write code, listen to music, play chess and reddit. This is my place on the web."
+  thumb: /images/author.jpg
+  email: paramsingh258@gmail.com
+  url: http://paramsingh.github.io
+  github: http://github.com/paramsingh
+  twitter: http://twitter.com/iliekcomputers
+  facebook: https://www.facebook.com/prmsngh
+  linkedin: http://linkedin.com/in/prmsngh
 
 # social settings
 og_locale: "en_US"
@@ -51,9 +49,26 @@ gems:
 
 # navbar pages
 navbar:
-  - slug : about
+  - slug: about
     title: About
-  - slug : blog
+  - slug: blog
     title: Blog
 
-exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
+exclude:
+  [
+    "gulp",
+    "node_modules",
+    "bower",
+    "bower_components",
+    "config.rb",
+    "src",
+    "Gemfile",
+    "Gemfile.lock",
+    ".rvmrc",
+    ".rbenv-version",
+    "package.json",
+    "gulpfile.js",
+    "README.md",
+    "Rakefile",
+    "changelog.md",
+  ]
