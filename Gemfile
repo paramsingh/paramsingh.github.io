@@ -4,7 +4,8 @@ source 'http://rubygems.org'
 
 group :development do
   gem 'html-proofer'
-  gem 'jekyll', '>= 3.6.3'
+  gem 'kramdown', '>= 2.3.0'
+  gem 'jekyll', '>= 3.8.3'
   gem 'jekyll-paginate', '~> 1.1'
   gem 'jekyll-watch', '>=2.2.1'
   gem 'sass', '~> 3.4', '>= 3.4.20'
