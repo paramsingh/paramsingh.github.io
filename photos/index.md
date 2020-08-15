@@ -3,6 +3,8 @@ layout: page
 title: Photos
 ---
 
+I like taking photos. Most of my photos are on my [mitron.social](https://mitron.social/@iliekcomputers). Some of the better ones are here.
+
 | ![radisson](/assets/photos/202003/7f48cb91005ab1d287cbf8af0a03317f.jpg) | ![sfmoma](/assets/photos/201908/034d063f1132a77e7fe66af3e9243088.jpg) |
 | ![yo](/assets/photos/202002/099ea5eea3b0853c1f956881a12876cb.jpg) | ![hello](/assets/photos/202003/30e4e085a5b38414b3c41834defc2fdb.jpg) |
 | ![row2](/assets/photos/201911/429f080fadf873278d798d7976d98d78.jpg) | ![yoyo](/assets/photos/201911/4fa7f39089328fc0ab2eaee0210e662c.jpg) |
