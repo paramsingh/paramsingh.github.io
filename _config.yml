@@ -1,9 +1,9 @@
 # SEO settings
 title: "/param/"
 title2: "home" # default: ""
-# description: "Just another minimalist Jekyll theme that focuses on technical writing."
 # keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url: https://param.codes# site url
+url: https://param.codes
+# site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
@@ -29,7 +29,7 @@ sass:
 author:
   name: "Param Singh"
   job: "Software Engineer at Stripe"
-  bio: "I write code, listen to music, play chess and reddit. This is my place on the web."
+  bio: "I like building stuff, open source, engineering, history and photography. This is my place on the web."
   thumb: /images/author.jpg
   email: paramsingh258@gmail.com
   url: http://paramsingh.github.io
