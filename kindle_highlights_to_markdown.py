@@ -15,7 +15,7 @@ def create_markdown_file(filename: str):
             if index == 1:
                 title = row[0]
             if 'Highlight' in row[0]:
-                content += '>{}'.format(row[3])
+                content += '"{}"'.format(row[3])
                 content += '\n\n'
                 content += '---------'
                 content += '\n\n'
