@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'The art of doing science and engineering: learning to learn'
+title: 'The Art of Doing Science and Engineering: Learning to learn'
 ---
 
 "We must abandon the guided tour through the art gallery of mathematics, and instead teach how to create the mathematics we need."

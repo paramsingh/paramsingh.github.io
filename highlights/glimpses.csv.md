@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Glimpses of world history
+title: Glimpses of World History
 ---
 
 "The year you were born in—1917—was one of the memorable years of history when a great leader, with a heart full of love and sympathy for the poor and suffering, made his people write a noble and never-to-be-forgotten chapter of history. In the very month in which you were born, Lenin started the great Revolution which has changed the face of Russia and Siberia."
