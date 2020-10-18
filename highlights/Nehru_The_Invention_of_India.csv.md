@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Nehru: the invention of india'
+title: 'Nehru: The Invention of India'
 ---
 
 "Jawaharlal expressed admiration for the nationalism of Tilak and the Extremists, criticizing his father for being ‘immoderately moderate’. Years later he recognized that his father’s objections to the Extremists were based less on a dislike of their methods than on the Hindu nationalism they expressed, at odds with Motilal’s own secular cosmopolitanism."
