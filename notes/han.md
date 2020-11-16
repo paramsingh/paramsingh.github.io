@@ -1,6 +1,7 @@
 ---
 backlinks:
   china_dynasties: China's dynasties
+  three_kingdom_period: The Three Kingdom Period
 categories:
 - History
 layout: post
@@ -24,4 +25,4 @@ the Western and Eastern Han.
 
 Paper was invented during the Han empire, and it's thought of as a generally good time in economic terms.
 
-The Han empire lasted until ~200 AD, after which it was followed by the Three Kingdom period.
+The Han empire lasted until ~200 AD, after which it was followed by the [Three Kingdom period]({% link notes/three_kingdom_period.md %}).
