@@ -1,7 +1,10 @@
 ---
+backlinks:
+  china_dynasties: China's dynasties
+categories:
+- History
 layout: post
 title: The Han Dynasty
-categories: [History]
 ---
 
 The Qin Dynasty, the dynasty of the first emperor only lasted for ~20 years, with 2 emperors. They were
