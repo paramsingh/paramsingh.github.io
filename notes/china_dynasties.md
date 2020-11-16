@@ -15,3 +15,4 @@ China has had a bunch of dynasties since the beginning of their civilization.
   - Western Zhou (~1000BC - 771 BC) -- more "virtuous", notable person is the Duke of Zhou, who served as regent for his nephew and didn't usurp.
   - Eastern Zhou (770 BC - ~250 BC) -- more "despotic", which is why people considered the Mandate of Heaven to be gone later.
 - Qin Dynasty -- the dynasty of the First Emperor.
+- [Han Dynasty]({% link notes/han.md %})
