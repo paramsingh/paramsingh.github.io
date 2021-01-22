@@ -16,3 +16,9 @@ China has had a bunch of dynasties since the beginning of their civilization.
   - Eastern Zhou (770 BC - ~250 BC) -- more "despotic", which is why people considered the Mandate of Heaven to be gone later.
 - Qin Dynasty -- the dynasty of the First Emperor.
 - [Han Dynasty]({% link notes/han.md %})
+- [Tang Dynasty]({% link notes/tang.md %})
+- [Tang Dynasty]({% link notes/tang.md %})
+- [Song Dynasty]({% link notes/song.md %})
+- [Yuan Dynasty]({% link notes/yuan.md %})
+- [Ming Dynasty]({% link notes/ming.md %})
+- [Qing Dynasty]({% link notes/qing.md %})
