@@ -5,8 +5,6 @@ categories:
   - History
 ---
 
-_(Incomplete, will fill in the blanks as I go)_
-
 China has had a bunch of dynasties since the beginning of their civilization.
 
 - Xia Dynasty -- Semi-mythological, no contemporary records.
@@ -16,3 +14,9 @@ China has had a bunch of dynasties since the beginning of their civilization.
   - Eastern Zhou (770 BC - ~250 BC) -- more "despotic", which is why people considered the Mandate of Heaven to be gone later.
 - Qin Dynasty -- the dynasty of the First Emperor.
 - [Han Dynasty]({% link notes/han.md %})
+- [Tang Dynasty]({% link notes/tang.md %})
+- The Five Dynasties period happened after the Tang dynasty, staying for ~80 years before the Song took over.
+- [Song Dynasty]({% link notes/song.md %})
+- [Yuan Dynasty]({% link notes/yuan.md %})
+- [Ming Dynasty]({% link notes/ming.md %})
+- [Qing Dynasty]({% link notes/qing.md %})
