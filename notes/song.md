@@ -4,7 +4,8 @@ title: The Song Dynasty
 categories: [History]
 ---
 
-The Song dynasty followed the Five Kingdoms Period, starting from ~950 AD to ~1250 AD.
+The Song dynasty followed the Five Kingdoms Period after [the Tang Dynasty]({% link notes/tang.md %}),
+starting from ~950 AD to ~1250 AD.
 
 Technologically advanced, they were the first government in world history to issue bank notes.
 They were also the first to use gunpowder and a compass. Printing books was also common.

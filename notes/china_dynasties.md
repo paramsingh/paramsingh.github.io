@@ -17,7 +17,7 @@ China has had a bunch of dynasties since the beginning of their civilization.
 - Qin Dynasty -- the dynasty of the First Emperor.
 - [Han Dynasty]({% link notes/han.md %})
 - [Tang Dynasty]({% link notes/tang.md %})
-- [Tang Dynasty]({% link notes/tang.md %})
+- The Five Dynasties period happened after the Tang dynasty, staying for ~80 years before the Song took over.
 - [Song Dynasty]({% link notes/song.md %})
 - [Yuan Dynasty]({% link notes/yuan.md %})
 - [Ming Dynasty]({% link notes/ming.md %})
