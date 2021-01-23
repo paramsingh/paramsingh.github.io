@@ -11,4 +11,4 @@ Technologically advanced, they were the first government in world history to iss
 They were also the first to use gunpowder and a compass. Printing books was also common.
 
 When Kublai Khan invaded China, The Song dynasty was pushed south and started being called
-the Southern Song dynasty, who reigned for 1279, when they were conquered by the Yuan dynasty
+the Southern Song dynasty, who reigned for 1279, when they were conquered by [the Yuan dynasty]({% link notes/yuan.md %}).

@@ -5,8 +5,6 @@ categories:
   - History
 ---
 
-_(Incomplete, will fill in the blanks as I go)_
-
 China has had a bunch of dynasties since the beginning of their civilization.
 
 - Xia Dynasty -- Semi-mythological, no contemporary records.
