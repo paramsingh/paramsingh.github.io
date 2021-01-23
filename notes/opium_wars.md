@@ -1,7 +1,10 @@
 ---
+backlinks:
+  qing: The Qing Dynasty
+categories:
+- History
 layout: post
 title: The Opium Wars
-categories: [History]
 ---
 
 The Opium Wars were two wars fought by the [Qing Dynasty]({% link notes/qing.md %}) and western powers over the

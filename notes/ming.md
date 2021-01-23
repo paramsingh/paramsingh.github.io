@@ -1,7 +1,12 @@
 ---
+backlinks:
+  china_dynasties: China's dynasties
+  qing: The Qing Dynasty
+  yuan: The Yuan Dynasty
+categories:
+- History
 layout: post
 title: The Ming Dynasty
-categories: [History]
 ---
 
 The Ming dynasty succeeded [the Yuan dynasty]({% link notes/yuan.md %}), starting in 1368 AD and ending 1644 AD.

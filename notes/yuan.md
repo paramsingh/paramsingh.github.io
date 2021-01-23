@@ -1,7 +1,12 @@
 ---
+backlinks:
+  china_dynasties: China's dynasties
+  ming: The Ming Dynasty
+  song: The Song Dynasty
+categories:
+- History
 layout: post
 title: The Yuan Dynasty
-categories: [History]
 ---
 
 The Yuan dynasty followed [the Song dynasty]({% link notes/song.md %}). It was established by Kublai

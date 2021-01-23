@@ -1,7 +1,12 @@
 ---
+backlinks:
+  china_dynasties: China's dynasties
+  ming: The Ming Dynasty
+  opium_wars: The Opium Wars
+categories:
+- History
 layout: post
 title: The Qing Dynasty
-categories: [History]
 ---
 
 The Qing Dynasty was the last Chinese dynasty. It followed [the Ming Dynasty]({% link notes/ming.md %}), starting in

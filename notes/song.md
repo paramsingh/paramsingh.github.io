@@ -1,7 +1,11 @@
 ---
+backlinks:
+  china_dynasties: China's dynasties
+  yuan: The Yuan Dynasty
+categories:
+- History
 layout: post
 title: The Song Dynasty
-categories: [History]
 ---
 
 The Song dynasty followed the Five Kingdoms Period after [the Tang Dynasty]({% link notes/tang.md %}),

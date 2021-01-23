@@ -1,7 +1,11 @@
 ---
+backlinks:
+  china_dynasties: China's dynasties
+  song: The Song Dynasty
+categories:
+- History
 layout: post
 title: The Tang Dynasty
-categories: [History]
 ---
 
 The Tang dynasty came into power after a short living Sui dynasty re-united China into a single kingdom
