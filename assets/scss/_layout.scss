@@ -113,9 +113,7 @@ hr {
   margin: 0;
   position: relative;
   padding: 0;
-  pointer-events: all;
-  cursor: pointer;
-
+	
   li {
     display: inline-block;
     padding: 0 .6em;
@@ -123,6 +121,7 @@ hr {
 
   a {
     @extend .link;
+    cursor: pointer;
   }
 }
 
