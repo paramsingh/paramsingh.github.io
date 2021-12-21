@@ -13,8 +13,6 @@ I also write code for the [MetaBrainz Foundation](https://metabrainz.org/).
 
 [paramsingh](https://github.com/paramsingh) on GitHub;
 
-[iliekcomputers](https://mitron.social/@iliekcomputers) on mitron.social; (Shoutout to [runyourown.social](https://runyourown.social)!)
-
 [iliekcomputers](https://twitter.com/iliekcomputers) on Twitter;
 
 [iliekcomputers](https://news.ycombinator.com/user?id=iliekcomputers) on Hacker News
