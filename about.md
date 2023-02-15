@@ -20,7 +20,7 @@ permalink: /about/
     I worked on the Security team, where I learned a lot about how to programatically secure software that thousands of developers work on everyday.
   </p>
   <p>
-    After 3 years and 7 months at Stripe, I moved back to India.
+    After 3 years and 7 months at Stripe, I moved back to India. I'm in Lucknow, India (my hometown) for some time.
   </p>
 <p style="font-style: italic;">
 (Last updated: 15th February, 2023)
