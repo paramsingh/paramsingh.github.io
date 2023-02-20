@@ -3,7 +3,7 @@
 https://param.codes
 
 - [Jekyll](https://jekyllrb.com/)
-- [Thinkspace](https://github.com/heiswayi/thinkspace).
+- [Thinkspace](https://github.com/heiswayi/thinkspace)
 
 ### License
 
